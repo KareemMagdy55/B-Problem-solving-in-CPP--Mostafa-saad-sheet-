@@ -1,0 +1,249 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Mostafa_saad_s_sheet",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "A.AntonandDanik::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-A.AntonandDanik-Debug-608a8ff421967396523b.json",
+					"name" : "A.AntonandDanik",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "A.BearandBigBrother::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-A.BearandBigBrother-Debug-4bb4e24763d434b55161.json",
+					"name" : "A.BearandBigBrother",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "A.BeautifulMatrix::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-A.BeautifulMatrix-Debug-ab0350665a406ddd0109.json",
+					"name" : "A.BeautifulMatrix",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "A.BlackSquare::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-A.BlackSquare-Debug-88331bb4112e570e4492.json",
+					"name" : "A.BlackSquare",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "A.BoyOrGirl::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-A.BoyOrGirl-Debug-7e8977c6c8e93548d192.json",
+					"name" : "A.BoyOrGirl",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "A.BuyaShovel::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-A.BuyaShovel-Debug-48aac6e2e3ec863ab947.json",
+					"name" : "A.BuyaShovel",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "A.ColorfulStones::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-A.ColorfulStones-Debug-fa9ba7bf59cb44ad7fae.json",
+					"name" : "A.ColorfulStones",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "A.Games::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-A.Games-Debug-9df749b1cc41a2f6b840.json",
+					"name" : "A.Games",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "A.GravityFlip::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-A.GravityFlip-Debug-a0021dfcb6c5d38ba330.json",
+					"name" : "A.GravityFlip",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "A.Magnets::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-A.Magnets-Debug-1640807a8ce57d8f797f.json",
+					"name" : "A.Magnets",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "A.NightAtTheMuseum::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-A.NightAtTheMuseum-Debug-48145bcd7b5bc3a390e0.json",
+					"name" : "A.NightAtTheMuseum",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "A.PetyaAndStrings::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-A.PetyaAndStrings-Debug-d6ab00f44bef6a4ff3de.json",
+					"name" : "A.PetyaAndStrings",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "A.PoliceRecruits::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-A.PoliceRecruits-Debug-814369e894973752d046.json",
+					"name" : "A.PoliceRecruits",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "A.SerejAndDima::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-A.SerejAndDima-Debug-63546062fbd5af2a1ff3.json",
+					"name" : "A.SerejAndDima",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "A.StonesOnTheTable::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-A.StonesOnTheTable-Debug-9f9122c89555803bf18a.json",
+					"name" : "A.StonesOnTheTable",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "A.VanyaAndFence::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-A.VanyaAndFence-Debug-f012a57849ecc74b1301.json",
+					"name" : "A.VanyaAndFence",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "A.Word::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-A.Word-Debug-cb3e116a8cbc7c1c4ded.json",
+					"name" : "A.Word",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "D.Xor::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-D.Xor-Debug-6a88c9b673645e7c79c8.json",
+					"name" : "D.Xor",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "E.HadyRidestheTrain::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-E.HadyRidestheTrain-Debug-b39c4a5a6165e863037b.json",
+					"name" : "E.HadyRidestheTrain",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "H.GCD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-H.GCD-Debug-460c1a055c41f134a750.json",
+					"name" : "H.GCD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Mostafa_saad_s_sheet::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Mostafa_saad_s_sheet-Debug-1935b5a238847cbb4d37.json",
+					"name" : "Mostafa_saad_s_sheet",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "T.CircleTask::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-T.CircleTask-Debug-dbc46b4deac0f53368e7.json",
+					"name" : "T.CircleTask",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Kareem's/Programming vol.3/C++/Mostafa saad's sheet/cmake-build-debug",
+		"source" : "C:/Kareem's/Programming vol.3/C++/Mostafa saad's sheet"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
